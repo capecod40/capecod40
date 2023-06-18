@@ -1,19 +1,8 @@
-<img src="./assets/title.png">
 <p align=center>
-  Instead of another crappy README.md, I have built an <a href="https://capecod40.github.io/personal-website/">exquisite, *bug-free, **sanity-inducing website</a>.<br>
-<sup>
-<sup>
-<sup>
-  <sup>
-  *Probably not **No <br>
-  </sup>
-</sup>
-</sup>
-</sup>
-  With that said, here it is anyway:<br><br>
+  <img src="./assets/title.png" title="Today, I'm going to give you a tour of my projects including all of their quirks and features. Then I'm going to get them out on the road and see how they drive. "><br>
 </p>
 
-<h2 style="text-align:center">Projects</h2>
+<h2 align=center>Projects</h2>
 
 <table>
   <tr align=center>
