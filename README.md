@@ -1,12 +1,12 @@
-<h1 align=center>My Github</h1>
+<!-- <h1 style="text-align:center">My Github</h1>
 
-<h2 align=center>Projects</h2>
+<h2 style="text-align:center">Projects</h2>
 <table>
   <tr align=center>
     <td colspan="2"> <a href="https://github.com/capecod40/personal-website">My Website</a>
       <br><br>
-      <img src=https://github.com/capecod40/capecod40/assets/109251338/8e735946-bc91-4bc2-b5f8-fdb8f5c300e0>
-      <img src=https://github.com/capecod40/capecod40/assets/109251338/655f5476-024a-4be6-af2d-d0004c413fc0>
+      <img src="./assets/html-5.png">
+      <img src="./assets/css-3.png">
     </td>
   </tr>
   <tr align=center>
@@ -20,4 +20,8 @@
   <tr align=center>
     <td colspan="2"><a href="https://github.com/J0ELh/2DPlatformer">File Backup Java Application</a></td>
   </tr>
-</table>
+</table> -->
+
+<div style="width: 100%;">
+  <img src="index.svg" style="width: 100%;" alt="Click to see the source">
+</div>
