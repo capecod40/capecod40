@@ -35,7 +35,7 @@
 ## Projects
 [![Website](https://github-readme-stats.vercel.app/api/pin/?username=capecod40&repo=personal-website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/capecod40/personal-website)
 [![2D Video Game: C++](https://github-readme-stats.vercel.app/api/pin/?username=capecod40&repo=osu&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/capecod40/osu)
-[![Super Mario Bros: Unity](https://github-readme-stats.vercel.app/api/pin/?username=capecod40&repo=super-mario&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/J0ELh/2DPlatformer)
+[![Super Mario Bros: Unity](https://github-readme-stats.vercel.app/api/pin/?username=capecod40&repo=super-mario&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/capecod40/super-mario)
 [![File Backup Java Application](https://github-readme-stats.vercel.app/api/pin/?username=capecod40&repo=FileBackup&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/capecod40/FileBackup)
 
 <br/>
