@@ -1,34 +1,51 @@
-<p align=center>
-  <img src="./assets/title.png" title="Today, I'm going to give you a tour of my projects including all of their quirks and features. Then I'm going to get them out on the road and see how they drive. "><br>
+<h3 align="center" title="Today, I'm going to give you a tour of my projects including all of their quirks and features. Then, I'm going to get them out on the road and see how they drive. ">
+        <samp>THIS... is my GitHub
+        </samp>
+</h3>
+
+
+<p align="center"> 
+  <samp>
+    「 Tony Zhang 」
+    <br>
+    「 UBC Computer Science 」
+    <br>
+    <br>
+  </samp>
 </p>
 
-<h2 align=center>Projects</h2>
+<p align="center">
+ <a href="https://capecod40.github.io/personal-website/" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Tony" />
+ </a>
+ <a href="https://www.linkedin.com/in/tony-zhang-09a542275/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tony"/>
+ </a>
+</p>
+<br />
 
-<table>
-  <tr align=center>
-    <td colspan="2"> 
-      <a href="https://github.com/capecod40/personal-website">My Website</a><br><br>
-      <img src="./assets/html-5.png">
-      <img src="./assets/css-3.png">
-      <img src="./assets/js.png">
-    </td>
-  </tr>
-  <tr align=center>
-    <td>
-      <a href="https://github.com/capecod40/personal-website">Super Mario Bros.</a>
-      <img src=https://github.com/capecod40/capecod40/assets/109251338/c0e0c046-744c-4d1e-ab6b-c78494a19971>
-    </td>
-    <td>
-      <a href="https://github.com/capecod40/osu">2D Video Game</a>
-      <img src="https://github.com/capecod40/capecod40/assets/109251338/5369e3c1-f21e-4f61-bbf8-2f6d69f509ca">
-    </td>
-  </tr>
-  <tr align=center>
-    <td colspan="2">
-      <a href="https://github.com/J0ELh/2DPlatformer">File Backup Java Application</a><br><br>
-      <img src="./assets/java.png">
-      <img src="./assets/junit5.png">
-    </td>
-  </tr>
-</table>
+## About Me
+<p align="center">
+  <a href="https://github.com/capecod40">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capecod40&theme=transparent&show_icons=true&hide_border=false&layout=compact&langs_count=10"><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=capecod40&theme=transparent&hide_border=false"><br>
+  </a>
+</p>
+
+## Projects
+[![Website](https://github-readme-stats.vercel.app/api/pin/?username=capecod40&repo=personal-website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/capecod40/personal-website)
+[![2D Video Game: C++](https://github-readme-stats.vercel.app/api/pin/?username=capecod40&repo=osu&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/capecod40/osu)
+[![Super Mario Bros: Unity](https://github-readme-stats.vercel.app/api/pin/?username=J0ELh&repo=2DPlatformer&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/J0ELh/2DPlatformer)
+[![File Backup Java Application](https://github-readme-stats.vercel.app/api/pin/?username=capecod40&repo=FileBackup&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/capecod40/FileBackup)
+
+<br/>
+<hr/>
+
+<sub>
+  <sub>
+    <sub>
+      Readme Template Credits: https://github.com/alsiam/alsiam
+    </sub>
+  </sub>
+</sub>
 
