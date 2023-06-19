@@ -1,6 +1,7 @@
 <h1 align="center" title="Today, I'm going to give you a tour of my projects including all of their quirks and features. Then, I'm going to get them out on the road and see how they drive. ">
-        <samp>THIS... is my GitHub
+        <a href=""><samp>THIS... is my GitHub
         </samp>
+        </a>
 </h1>
 
 
