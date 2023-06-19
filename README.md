@@ -1,10 +1,10 @@
-<h3 align="center" title="Today, I'm going to give you a tour of my projects including all of their quirks and features. Then, I'm going to get them out on the road and see how they drive. ">
+<h1 align="center" title="Today, I'm going to give you a tour of my projects including all of their quirks and features. Then, I'm going to get them out on the road and see how they drive. ">
         <samp>THIS... is my GitHub
         </samp>
-</h3>
+</h1>
 
 
-<p align="center"> 
+<h3 align="center"> 
   <samp>
     「 Tony Zhang 」
     <br>
@@ -12,7 +12,7 @@
     <br>
     <br>
   </samp>
-</p>
+</h3>
 
 <p align="center">
  <a href="https://capecod40.github.io/personal-website/" target="blank">
